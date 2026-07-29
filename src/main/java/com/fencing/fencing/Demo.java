@@ -11,4 +11,3 @@ public class Demo {
         System.out.println("P1: " + dealt.get(0));
     }
 }
-
